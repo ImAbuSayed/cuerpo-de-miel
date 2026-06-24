@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cuerpo de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-miel/) |
+| **Get License** | [Get a Licensing Quote for Cuerpo de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cuerpo de miel, me tienes adicto a tu piel
+> En la oscuridad de la disco, subiendo el nivel
+> Nena, me pierdo en tus ojos de color pastel
+> Sabe a dulzura tu boca, mi boca es el pincel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
